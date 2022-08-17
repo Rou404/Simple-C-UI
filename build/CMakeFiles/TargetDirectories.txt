@@ -1,0 +1,3 @@
+/home/otelu/Stepik/PPproject/Stepik/Another one bites the dust/build/CMakeFiles/edit_cache.dir
+/home/otelu/Stepik/PPproject/Stepik/Another one bites the dust/build/CMakeFiles/rebuild_cache.dir
+/home/otelu/Stepik/PPproject/Stepik/Another one bites the dust/build/CMakeFiles/To_do.dir
